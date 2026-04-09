@@ -1,0 +1,52 @@
+{
+  "memos": [
+    {
+      "id": "267b2ecc",
+      "title": "GitHub Actionsを学んだ",
+      "content": "CI/CDの基本。push/PR時に自動でpytestを実行する仕組み。無料枠は月2000分（Linux）。",
+      "type": "learned",
+      "tags": [
+        "github",
+        "actions",
+        "ci-cd"
+      ],
+      "date": "2026-04-09"
+    },
+    {
+      "id": "412dfd4c",
+      "title": "GitHub Secretsを学んだ",
+      "content": "APIキーなどの機密情報をSecretsで安全に管理できる。暗号化保存、ログマスク、Fork制限あり。",
+      "type": "learned",
+      "tags": [
+        "github",
+        "security",
+        "secrets"
+      ],
+      "date": "2026-04-09"
+    },
+    {
+      "id": "32a792a2",
+      "title": "ネットワークグラフ可視化を実装したい",
+      "content": "vis.jsを使ってメモ同士の関係を可視化する。タグ共有でエッジを張る。",
+      "type": "todo",
+      "tags": [
+        "visualization",
+        "javascript",
+        "vis-js"
+      ],
+      "date": "2026-04-09"
+    },
+    {
+      "id": "1b266145",
+      "title": "今日の振り返り",
+      "content": "GitHub Actions、Secrets、テスト駆動開発など多くのことを学べた。可視化も面白い。",
+      "type": "reflection",
+      "tags": [
+        "daily",
+        "github",
+        "python"
+      ],
+      "date": "2026-04-09"
+    }
+  ]
+}

@@ -47,6 +47,18 @@
         "python"
       ],
       "date": "2026-04-09"
+    },
+    {
+      "id": "c0c61056",
+      "title": "Claude Codeがアプリで使えること",
+      "content": "Claude CodeはCLIだけでなく、デスクトップアプリ（Mac/Windows）、Webアプリ（claude.ai/code）、IDE拡張（VS Code、JetBrains）など様々な形で利用できる。",
+      "type": "learned",
+      "tags": [
+        "claude-code",
+        "app",
+        "tools"
+      ],
+      "date": "2026-04-09"
     }
   ]
 }

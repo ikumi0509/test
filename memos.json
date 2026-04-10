@@ -83,6 +83,19 @@
         "testing"
       ],
       "date": "2026-04-10"
+    },
+    {
+      "id": "141c2ef1",
+      "title": "Claude Managed Agentsを試してみたい",
+      "content": "AnthropicのManaged Agents API（/v1/agents, /v1/sessions）を使って、自律的に動くAIエージェントを構築してみたい。",
+      "type": "todo",
+      "tags": [
+        "claude-code",
+        "ai-agent",
+        "anthropic",
+        "managed-agents"
+      ],
+      "date": "2026-04-10"
     }
   ]
 }

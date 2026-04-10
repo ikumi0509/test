@@ -14,16 +14,17 @@
    - `type`: `learned`（学んだこと）/ `todo`（やりたいこと）/ `reflection`（振り返り・感想）
    - `tags`: 関連するタグ（技術名、カテゴリなど）
 
-2. **Pythonスクリプトでメモを保存する**:
+2. **Pythonスクリプトでメモを保存し、グラフも自動生成する**:
    ```bash
    python3 memo_data.py add --title "タイトル" --content "内容" --type learned --tags tag1 tag2
+   python3 memo_visualize.py
    ```
 
-3. **GitHubにプッシュする**:
+3. **mainブランチに直接コミット・プッシュする**:
    ```bash
-   git add memos.json
+   git add memos.json memos_graph.html
    git commit -m "メモ追加: タイトル"
-   git push
+   git push origin main
    ```
 
 4. **ユーザーに保存完了を報告する**（タイトル、タイプ、タグを表示）
@@ -36,7 +37,7 @@
 python3 memo_visualize.py
 git add memos_graph.html
 git commit -m "メモグラフを更新"
-git push
+git push origin main
 ```
 
 ### メモのタイプ判定ガイド

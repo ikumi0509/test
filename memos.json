@@ -96,6 +96,19 @@
         "managed-agents"
       ],
       "date": "2026-04-10"
+    },
+    {
+      "id": "5c77bddd",
+      "title": "O'Reillyで勉強する習慣をつけたい",
+      "content": "O'Reilly Learning Platformで技術書を読む習慣をつけたい。まずはAgentic Coding with Claude Codeの第2章から。参考: https://learning.oreilly.com/library/view/agentic-coding-with/9781806022595/Chapter_2.xhtml",
+      "type": "todo",
+      "tags": [
+        "oreilly",
+        "reading",
+        "learning",
+        "claude-code"
+      ],
+      "date": "2026-04-10"
     }
   ]
 }

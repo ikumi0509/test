@@ -134,6 +134,127 @@
         "github"
       ],
       "date": "2026-04-10"
+    },
+    {
+      "id": "9a8cf6b3",
+      "title": "情報収集エージェントを作る",
+      "content": "パイプラインを用いた情報収集エージェントを構築したい。コンテキストエンジニアリングの手法も取り入れる。",
+      "type": "todo",
+      "tags": [
+        "ai-agent",
+        "pipeline",
+        "context-engineering"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "8dfd005d",
+      "title": "良いSkillsを作ってみる",
+      "content": "Claude Codeのスキル機能を活用して、実用的なカスタムSkillsを作成する。",
+      "type": "todo",
+      "tags": [
+        "claude-code",
+        "skills"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "24ffcef6",
+      "title": "サブエージェントを使って開発してみる",
+      "content": "開発者とPMのようなサブエージェント構成での開発を試す。Zennの記事を参考に。",
+      "type": "todo",
+      "tags": [
+        "ai-agent",
+        "sub-agent",
+        "development",
+        "zenn"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "87577a43",
+      "title": "自分でMCPサーバーを立ててみる",
+      "content": "MCPサーバーを自前で構築し、Claude Codeと連携させる。",
+      "type": "todo",
+      "tags": [
+        "mcp",
+        "claude-code",
+        "infrastructure"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "62dcff92",
+      "title": "BQクエリのスケジュール実行を作る",
+      "content": "BigQueryでスケジュールされたクエリを作成し、定期的なデータ処理を自動化する。",
+      "type": "todo",
+      "tags": [
+        "bigquery",
+        "gcp",
+        "data-pipeline"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "1558be45",
+      "title": "APIからBQへのつなぎこみを知る",
+      "content": "外部APIからデータを取得してBigQueryに格納するパイプラインの構築方法を学ぶ。",
+      "type": "todo",
+      "tags": [
+        "bigquery",
+        "gcp",
+        "api",
+        "data-pipeline"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "4255efa4",
+      "title": "Cloud RunでPythonを動かしてみる",
+      "content": "Google Cloud Runのサンドボックス環境でPythonスクリプトを実行する。",
+      "type": "todo",
+      "tags": [
+        "gcp",
+        "cloud-run",
+        "python"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "ce2fd249",
+      "title": "AWSでバックエンドを使ったWebサービスを作る",
+      "content": "AWS等のクラウドサービスを使って、バックエンド込みのフルスタックWebサービスを構築する。",
+      "type": "todo",
+      "tags": [
+        "aws",
+        "web-service",
+        "backend",
+        "fullstack"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "9ce2ea2a",
+      "title": "クリニックのものをやる",
+      "content": "クリニック関連のプロジェクトに取り組む。",
+      "type": "todo",
+      "tags": [
+        "clinic",
+        "project"
+      ],
+      "date": "2026-04-10"
+    },
+    {
+      "id": "61e451b1",
+      "title": "iPhoneのアプリを作る",
+      "content": "iOSアプリの開発に挑戦する。",
+      "type": "todo",
+      "tags": [
+        "ios",
+        "app",
+        "mobile"
+      ],
+      "date": "2026-04-10"
     }
   ]
 }
